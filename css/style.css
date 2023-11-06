@@ -2,14 +2,9 @@ html {
 	font-size: 16px;
 }
 
-.description {
-	font-family: sans-serif;
+.description, .ingredients, .sub-section, .steps {
 	font-size: 18px;
-}
-
-.ingredients {
 	font-family: sans-serif;
-	font-size: 18px;
 }
 
 .ingredients li {
@@ -38,16 +33,6 @@ html {
 	background-color: bisque;
 	font-family: sans-serif;
 	padding: 8px;
-}
-
-.sub-section {
-	font-family: sans-serif;
-	font-size: 18px;
-}
-
-.steps {
-	font-family: sans-serif;
-	font-size: 18px;
 }
 
 .steps li {

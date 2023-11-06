@@ -1,0 +1,13 @@
+h1 {
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+.recipe-list {
+	font-family: Tahoma, Verdana, sans-serif;
+	font-size: 24px;
+	list-style-type: none;
+}
+
+.recipe-list li{
+	padding: 8px;
+}

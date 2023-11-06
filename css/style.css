@@ -1,5 +1,20 @@
-h1 {
-	font-family: Tahoma, Verdana, sans-serif;
+html {
+	font-size: 16px;
+}
+
+.description {
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+.ingredients {
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+.ingredients li {
+	padding: 4px;
+	list-style-type: none;
 }
 
 .recipe-list {
@@ -9,5 +24,32 @@ h1 {
 }
 
 .recipe-list li{
+	padding: 8px;
+}
+
+.recipe-title {
+	background-color:darksalmon;
+	font-family: Georgia, serif;
+	font-size: 30px;
+	padding: 8px;
+}
+
+.section {
+	background-color: bisque;
+	font-family: sans-serif;
+	padding: 8px;
+}
+
+.sub-section {
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+.steps {
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+.steps li {
 	padding: 8px;
 }
